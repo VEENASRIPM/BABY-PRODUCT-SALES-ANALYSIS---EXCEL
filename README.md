@@ -1,18 +1,18 @@
-# SALES DATASET ANALYSIS - BABY-PRODUCT
+#  BABY-PRODUCT SALES DATASET ANALYSIS EXCEL
 
-## -- Project Overview
+##  PROJECT OVERVIEW:
 
 Project presents a comprehensive analysis of a sales dataset focused on baby products. The goal is to derive actionable insights by examining sales performance, customer behavior, and trends using Excel tools and data modeling techniques.
 
 ---
 
-## -- Objective
+##  OBJECTIVE
 
 To analyze and interpret baby product sales data from a retail business between **October 2020 and November 2023**. The objective is to uncover patterns, assess performance metrics, and generate strategic insights to improve sales operations.
 
 ---
 
-## -- Scope of Analysis
+##  SCOPE FOR ANALYSIS
 
 * **Time Frame**: October 2020 – November 2023
 * **Category**: Baby products (all subtypes)
@@ -26,7 +26,7 @@ To analyze and interpret baby product sales data from a retail business between 
 
 ---
 
-## -- Intended Audience
+##  INTENDED AUDIENCE
 
 * Data Analysts
 * Sales Managers
@@ -35,7 +35,7 @@ To analyze and interpret baby product sales data from a retail business between 
 
 ---
 
-## -- Techniques & Tools Used
+##  TECHNIQUES AND TOOLS
 
 * **Excel Functions & Formulas**
 * **Power Query**
@@ -47,31 +47,30 @@ To analyze and interpret baby product sales data from a retail business between 
 
 ---
 
-## Key Analyses
-
-### -- Adjusted Sales
+## KEY ANALYSIS
+###  Adjusted Sales
 
 Formula: `Gross Sales - (Discounts + Returns + Shipping + Taxes)`
 
-### -- Total Revenue
+###  TOTAL REVENUE
 
 Formula: `SUM(L2:L28269)`
 
-### -- Average Order Value
+###  Average Order Value
 
 Formula: `AVERAGE(U2:U28269)`
 
-### -- Total Discounts
+###  Total Discounts
 
 Formula: `SUM(M2:M28269)`
 
-### -- Return Rate
+###  Return Rate
 
 Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## Highlights
+## HIGHLIGHTS
 
 * **Top Performer**: *Aptamil Stage2 Follow-on Milk Powder 800gm*
   Revenue: `$3,919,900` | Units: `740`
@@ -86,7 +85,7 @@ Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## -- Dashboard KPIs
+##  DASHBOARD KPIs
 
 * **Sum of Gross Sales**: `$82,639,386.06`
 * **Sum of Net Sales**: `$82,408,011.06`
@@ -95,7 +94,7 @@ Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## -- Key Takeaways
+##  KEY TAKEAWAYS
 
 * Baby formula was the highest-selling product type.
 * Sales peaked in Q2 of 2023, with a noticeable trend increase year over year.
@@ -104,7 +103,7 @@ Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## -- Recommendations
+##  RECOMMENDATION
 
 * Utilize price elasticity for dynamic pricing strategies.
 * Boost marketing and run promotional campaigns.
@@ -114,7 +113,7 @@ Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## -- Future Considerations
+##  FUTURE CONSIDERATIONS
 
 * Conduct customer surveys for feedback.
 * Analyze geographical performance in-depth.
@@ -123,11 +122,11 @@ Formula: `(Returns / Gross Sales) * 100`
 
 ---
 
-## -- Reported by
+## -- REPORTED BY
 
 **VEENA SRI P M**
 \*Data Analytics and Data Science \*
 
 ---
 
-##  Thank You!
+##  THANK YOU!
