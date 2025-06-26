@@ -127,6 +127,4 @@ Formula: `(Returns / Gross Sales) * 100`
 **VEENA SRI P M**
 \*Data Analytics and Data Science \*
 
----
-
 ##  THANK YOU!
